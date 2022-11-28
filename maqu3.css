@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+}
+
+header {
+    margin:0;
+    background-color: blue;
+    height: 12vh;
+}
+main{
+    background-color:green;
+    height: 35vw;
+}
+footer{
+    background-color: red;
+    height: 15vh;
+}
+p{
+    margin: 0;
+}
+#yep1{
+    background-color: yellow;    
+    position: absolute;
+    height: 20vh;
+    width: 45vh;
+    margin-top:3vw;
+    margin-left: 3vw;
+}
+#yep2{
+    background-color: yellow;    
+    position: absolute;
+    height: 20vh;
+    width: 45vh;
+    margin-top:3vw;
+    margin-left: 26vw;
+}
+#yep3{
+    background-color: yellow;    
+    position: absolute;
+    height: 20vh;
+    width: 45vh;
+    margin-top:3vw;
+    margin-left: 49vw;
+}
+#yep4{
+    background-color: yellow;    
+    position: absolute;
+    height: 20vh;
+    width: 45vh;
+    margin-top:3vw;
+    margin-left:72vw;
+}
+#yep5{
+    background-color: yellow;    
+    position: absolute;
+    height: 20vh;
+    width: 45vh;
+    margin-top:15vw;
+    margin-left:60vw;
+    margin-right:40vw;
+}
+#yep6{
+    background-color: yellow;    
+    position: absolute;
+    height: 20vh;
+    width: 45vh;
+    margin-top:15vw;
+    margin-left:37vw;
+
+}
+#yep7{
+    background-color: yellow;    
+    position: absolute;
+    height: 20vh;
+    width: 45vh;
+    margin-top:15vw;
+    margin-left:14vw;
+
+}
+#yep8{
+    background-color: yellow;    
+    position: absolute;
+}
+#yep9{
+    background-color: yellow;    
+    position: absolute;
+}
