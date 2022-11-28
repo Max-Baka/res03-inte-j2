@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+
+header {
+    margin:0;
+    background-color: blue;
+    height: 12vh;
+}
+main{
+    background-color:green;
+    height: 35vw;
+}
+footer{
+    background-color: red;
+    height: 15vh;
+}
+p{
+    margin: 0;
+}
+#yep1{
+    background-color: yellow;    /*top, right, bottom et left.*/
+    position: relative;
+    top:25vh;
+    left: 2vw;
+    height: 40vh;
+    width: 50vh;
+}
+#yep2{
+    position: relative;
+    height: 40vh;
+    width: 50vh;
+}

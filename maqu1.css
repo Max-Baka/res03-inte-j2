@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: blue;
+    height: 12vh;
+}
+main{
+    background-color:green;
+    height: 35vw;
+}
+footer{
+    background-color: red;
+    height: 12vh;
+}
