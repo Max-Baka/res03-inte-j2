@@ -55,7 +55,7 @@ p{
     position: absolute;
     height: 20vh;
     width: 45vh;
-    margin-top:15vw;
+    margin-top:14vw;
     margin-left:60vw;
     margin-right:40vw;
 }
@@ -64,7 +64,7 @@ p{
     position: absolute;
     height: 20vh;
     width: 45vh;
-    margin-top:15vw;
+    margin-top:14vw;
     margin-left:37vw;
 
 }
@@ -73,15 +73,23 @@ p{
     position: absolute;
     height: 20vh;
     width: 45vh;
-    margin-top:15vw;
+    margin-top:14vw;
     margin-left:14vw;
 
 }
 #yep8{
     background-color: yellow;    
     position: absolute;
+    height: 20vh;
+    width: 45vh;
+    margin-top:54vh;
+    margin-left:25vw;
 }
 #yep9{
     background-color: yellow;    
     position: absolute;
+    height: 20vh;
+    width: 45vh;
+    margin-top:54vh;
+    margin-left:49vw;
 }
