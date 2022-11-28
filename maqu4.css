@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+.article1{
+    position: absolute;
+    width:59vw;
+    height:37vh;
+    margin-right:40vw;
+}
+.article2{
+    position: absolute;
+    width:39vw;
+    height:37vh;
+    margin-left: 60vw;
+}
+.article3{
+    position: absolute;
+    width: 30vw;
+    height: 50vh;
+    margin-top: 16vw;
+    margin-right: 70vw;
+}
+.article4{
+    position: absolute;
+     width: 30vw;
+    height: 50vh;
+    margin-top:16vw;
+    margin-left:35vw;
+}
+.article5{
+    position: absolute;
+     width: 30vw;
+    height: 50vh;
+    margin-top:16vw;
+    margin-left:70vw;
+}
