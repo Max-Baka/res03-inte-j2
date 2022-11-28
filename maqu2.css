@@ -21,13 +21,25 @@ p{
 #yep1{
     background-color: yellow;    /*top, right, bottom et left.*/
     position: relative;
-    top:25vh;
+    top:15vh;
     left: 2vw;
     height: 40vh;
-    width: 50vh;
+    width: 30%;
 }
 #yep2{
+    background-color: yellow;
     position: relative;
+    left:35vw;
+    bottom:25vh;
     height: 40vh;
-    width: 50vh;
+    width: 30%;
+}
+#yep3{
+    background-color: yellow;
+    position: relative;
+    left: 143vh;
+    right: 4vw;
+    bottom:65vh;
+    height: 40vh;
+    width: 30%;
 }
